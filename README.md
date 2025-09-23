@@ -38,10 +38,10 @@ First, we will configure the script and test it manually to ensure everything wo
 Clone the repository :
     Log in to your server via SSH and clone this repository.
 ```
-git clone https://github.com/MrNobody1513/3x-ui-fail2ban-manager.git
+git clone https://github.com/MrNobody1513/3X-ui-Fail2ban-CDN-Proxy.git
 ```
 ```
-cd UserLimit
+cd 3X-ui-Fail2ban-CDN-Proxy
 ```
 Run the script for the first time (as a regular user):This will trigger the interactive configuration wizard.
 
